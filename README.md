@@ -1,5 +1,4 @@
 # sortware-develpment-tools-lab-2
-# sortware-develpment-tools-lab-2
 # Geometric lib
 A library that will help you work with simple geometric shapes
 ## Available modules
